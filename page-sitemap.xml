@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/pueblo/</loc>
-		<lastmod>2025-02-06T04:13:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/arvada/</loc>
-		<lastmod>2025-02-06T04:13:09+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/westminster/</loc>
-		<lastmod>2025-02-06T04:13:09+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/fort-collins/</loc>
-		<lastmod>2025-02-06T04:13:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/lakewood/</loc>
-		<lastmod>2025-02-06T04:13:08+00:00</lastmod>
+		<loc>/pueblo/</loc>
+		<lastmod>2025-02-07T02:44:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/thornton/</loc>
-		<lastmod>2025-02-06T04:13:08+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/northglenn/</loc>
-		<lastmod>2025-02-06T04:13:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/colorado-springs/</loc>
-		<lastmod>2025-02-06T04:13:07+00:00</lastmod>
+		<loc>/arvada/</loc>
+		<lastmod>2025-02-07T02:44:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/aurora/</loc>
-		<lastmod>2025-02-06T04:13:07+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/grand-junction/</loc>
-		<lastmod>2025-02-06T04:13:06+00:00</lastmod>
+		<loc>/fort-collins/</loc>
+		<lastmod>2025-02-07T02:44:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/littleton/</loc>
-		<lastmod>2025-02-06T04:13:06+00:00</lastmod>
+		<loc>/lakewood/</loc>
+		<lastmod>2025-02-07T02:44:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/colorado-springs/</loc>
+		<lastmod>2025-02-07T02:44:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/commerce-city/</loc>
-		<lastmod>2025-02-06T04:13:06+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/northglenn/</loc>
+		<lastmod>2025-02-07T02:44:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/grand-junction/</loc>
+		<lastmod>2025-02-07T02:44:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/littleton/</loc>
+		<lastmod>2025-02-07T02:44:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/castle-rock/</loc>
-		<lastmod>2025-02-06T04:13:05+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/parker/</loc>
-		<lastmod>2025-02-06T04:13:05+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/longmont/</loc>
-		<lastmod>2025-02-06T04:13:04+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/loveland/</loc>
-		<lastmod>2025-02-06T04:13:04+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/broomfield/</loc>
-		<lastmod>2025-02-06T04:13:04+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/boulder/</loc>
-		<lastmod>2025-02-06T04:13:03+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/greeley/</loc>
-		<lastmod>2025-02-06T04:13:03+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/denver/</loc>
-		<lastmod>2025-02-06T04:13:03+00:00</lastmod>
+		<lastmod>2025-02-07T02:44:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
